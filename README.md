@@ -4,7 +4,10 @@ This was made with the help of TraversyMedia (Design, and helped me take my firs
 \
 The website uses the localStorage this time again, but with a few retouches that were made possible thanks to Vue's perfomance and vast features.
 
-to have a look at it : [TaskTracker](https://task-tracker-vue-js-eight.vercel.app/)
+to have a look at it : [TaskTracker](https://task-tracker-vue-js-eight.vercel.app/)\
+\
+![image](https://github.com/MohamedKhalilAssa/task-tracker-vue-js/assets/123842557/e32fdcb6-27b2-4a2c-9974-622abd1e6df7)
+
 ## Project setup
 ```
 npm install
